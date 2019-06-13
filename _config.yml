@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Pamela Engravings'
-description:      "Image adaptations of Samuel Richardson's 1740 novel"
+description:      "Visual adaptations of Samuel Richardson's novel"
 url:              'https://cholahan.github.io'
 baseurl:          '/pamela'
 copyright:        'Example copyright org, 2019'
