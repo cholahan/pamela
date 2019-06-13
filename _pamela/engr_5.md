@@ -4,7 +4,7 @@ label: Plate 5
 category: Engraving
 edition: '1774'
 image_no: V
-order: '5'
+order: '05'
 transcription: 'Pamela setting out in the travelling Chariot for her Fathers, as she
   is made to believe, tkes her farewel of Mrs. Jervis and the other Servants: Mr.
   B observing her from the Window by whose private order she is carried into Lincolnshire.'

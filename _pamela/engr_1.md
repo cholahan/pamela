@@ -4,7 +4,7 @@ label: Plate 1
 category: Engraving
 edition: '1774'
 image_no: I
-order: '1'
+order: '01'
 transcription: 'Pamela is represented in this first Piece writing in her late Lady''s
   dressing Room: her History being known only by her Letters. She is here surprised
   by Mr. B. who improves this occasion to further her designs.'

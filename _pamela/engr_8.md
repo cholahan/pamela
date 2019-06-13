@@ -4,7 +4,7 @@ label: Plate 8
 category: Engraving
 edition: '1774'
 image_no: VIII
-order: '8'
+order: '08'
 transcription: Pamela on her knees before her Father, whom she had discovered behind
   the door, having overturn'd the Card-table in her way. Sr. Simon Darnford, his Lady,
   &c. observing her with eagerness and admiration. Mr. B stuck with his Scene is waiting

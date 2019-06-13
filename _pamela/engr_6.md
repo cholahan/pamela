@@ -4,7 +4,7 @@ label: Plate 6
 category: Engraving
 edition: '1774'
 image_no: VI
-order: '6'
+order: '06'
 transcription: Pamela, being now in the custody of Mrs. Jewkes, seizes an occasion
   as they are walking in the Garden to propose a correspondence with Mr. Williams,
   in order to contrive an escape, who agree to hide their letters between two tiles

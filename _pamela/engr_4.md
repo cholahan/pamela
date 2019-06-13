@@ -4,7 +4,7 @@ label: Plate 4
 category: Engraving
 edition: '1774'
 image_no: IV
-order: '4'
+order: '04'
 transcription: 'Pamela having divided her Clothes into three Bundles, in order to
   leave the House, rejects that containing her Masters Presents, calling it the wicked
   Bundle, and harangues over her own little Parcel, which she huggs in her Arms; this
