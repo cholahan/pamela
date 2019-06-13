@@ -10,7 +10,7 @@ transcription: Pamela with her Children and Miss Goodwin to whom she is telling 
   of her Virtue, long after having surmounted all the difficulties it had been exposed
   to.
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Pamela's children; Miss Goodwin
@@ -19,6 +19,9 @@ painting_link: https://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?oid=3350
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: 
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_12/full/250,/0/default.jpg"

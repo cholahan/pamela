@@ -1,6 +1,6 @@
 ---
 pid: engr_2_7
-label: Plate 7 (2nd edition)
+label: Plate 7 (1762)
 category: Engraving
 edition: '1762'
 image_no: VII
@@ -9,7 +9,7 @@ transcription: Pamela undressing herself (Mrs. Jewkes being first got to bed) wh
   Mr. B. disguised in the maids clothes, with the apron thrown over his face, is impatiently
   waiting for the execution of his plot.
 _date: 1 July 1762
-engraver: Louis Truchy
+artist: Louis Truchy
 publisher: John Boydell
 publication_place: London
 people: Pamela; Mrs. Jewkes; Mr. B
@@ -18,6 +18,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-vii-pamela-in-the-b
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.7-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28142/
+copyright: 
+source_text: "/exhibits/letter32/"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_7/full/250,/0/default.jpg"

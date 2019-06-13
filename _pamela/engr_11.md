@@ -11,7 +11,7 @@ transcription: 'Pamela asking the blessings of Sir Jacob Swinford, Mr. B.''s Unk
   now having conceived the highest esteem for her new Sister. The Countess Lady Davers,
   & his Nephew being present. '
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Sir Jacob Swinford; Lady Davers; Mr. B; Countess Lady Davers; Lady
@@ -21,6 +21,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-xi-pamela-asks-sir-
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: exhibits/vol2_4
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_11/full/250,/0/default.jpg"

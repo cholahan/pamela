@@ -13,7 +13,7 @@ transcription: 'Pamela Censured: In a Letter to the Editor: Shewing That under t
   Emotions far distant from the Principles of Virtue. Exemplified in many Quotations,
   with a Critical Review, and Remarks upon the Whole. '
 _date: '1741'
-engraver: 
+artist: 
 publisher: J. Roberts
 publication_place: Oxford Arms, in Warwick-Lane, London
 people: Pamela
@@ -22,6 +22,9 @@ painting_link:
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: 
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/text_tp/full/250,/0/default.jpg"

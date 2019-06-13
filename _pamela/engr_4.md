@@ -10,7 +10,7 @@ transcription: 'Pamela having divided her Clothes into three Bundles, in order t
   Bundle, and harangues over her own little Parcel, which she huggs in her Arms; this
   occasions an exclamation from Mrs. Jervis: Mr. B in the Closet listening.'
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Mrs. Jervis; Mr. B
@@ -19,6 +19,9 @@ painting_link: https://www.ngv.vic.gov.au/explore/collection/work/4042/
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: "/exhibits/letter32/"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_4/full/250,/0/default.jpg"

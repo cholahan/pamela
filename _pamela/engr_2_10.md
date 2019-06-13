@@ -1,6 +1,6 @@
 ---
 pid: engr_2_10
-label: Plate 10 (2nd edition)
+label: Plate 10 (1762)
 category: Engraving
 edition: '1762'
 image_no: X
@@ -11,7 +11,7 @@ transcription: Pamela dressed in order to Mr. B. at Sr. Simon Darford’s, is pr
   Mr. B.’s letter in her hand, Jewkes and the Lady’s woman burst into the room to
   prevent mischeif, Colebrand is seen through ye. window.
 _date: 1 July 1762
-engraver: Louis Truchy
+artist: Louis Truchy
 publisher: John Boydell
 publication_place: London
 people: Pamela; Lady Davers; Mrs. Jewkes; Lady Daver's nephew
@@ -20,6 +20,9 @@ painting_link: https://www.ngv.vic.gov.au/explore/collection/work/4043/
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.10-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28175/
+copyright: 
+source_text: exhibits/vol2_3
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_10/full/250,/0/default.jpg"

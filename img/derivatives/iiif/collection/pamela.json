@@ -8,6 +8,16 @@ layout: none
   "label": "pamela",
   "manifests": [
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_5"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_1/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2_1"
@@ -16,6 +26,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_3/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2_3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_7"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_2/manifest.json",
@@ -28,6 +43,16 @@ layout: none
       "label": "engr_2_6"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_3"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_7/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2_7"
@@ -36,6 +61,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_5/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2_5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_1"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/text_tp/manifest.json",
@@ -78,6 +108,21 @@ layout: none
       "label": "engr_3"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_09/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_09"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_08/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_08"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2"
@@ -86,6 +131,16 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_2_11/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_2_11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_11"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_1/manifest.json",
@@ -98,9 +153,59 @@ layout: none
       "label": "engr_2_10"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_06/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_06"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_07/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_07"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_05"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_04"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_01"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_9/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/img_highmore_02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "img_highmore_02"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_8/manifest.json",
@@ -133,9 +238,19 @@ layout: none
       "label": "engr_11"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_8"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_12/manifest.json",
       "@type": "sc:Manifest",
       "label": "engr_12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/engr_bm_9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "engr_bm_9"
     }
   ]
 }

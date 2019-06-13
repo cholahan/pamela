@@ -11,6 +11,7 @@ A digital exhibit is a collection of curated cultural artifacts—manuscripts, p
 
 
 
+
 **Wax is an extensible workflow based on minimal computing principles.**  
 Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
 

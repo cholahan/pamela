@@ -9,7 +9,7 @@ transcription: 'Pamela setting out in the travelling Chariot for her Fathers, as
   is made to believe, tkes her farewel of Mrs. Jervis and the other Servants: Mr.
   B observing her from the Window by whose private order she is carried into Lincolnshire.'
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Mrs. Jervis; Mr. B; servants
@@ -18,6 +18,9 @@ painting_link: https://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?oid=3346
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: "/exhibits/letter32/"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_5/full/250,/0/default.jpg"

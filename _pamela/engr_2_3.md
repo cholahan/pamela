@@ -1,6 +1,6 @@
 ---
 pid: engr_2_3
-label: Plate 3 (2nd edition)
+label: Plate 3 (1762)
 category: Engraving
 edition: '1762'
 image_no: III
@@ -8,7 +8,7 @@ order: '17'
 transcription: Pamela swooning, after having discovered Mr. B. in the closet. He (frighted)
   endeavouring to recover her. Mrs. Jervis wringing her hands, and screaming.
 _date: 1 July 1762
-engraver: Antoine Benoist
+artist: Antoine Benoist
 publisher: John Boydell
 publication_place: London
 people: Pamela; Mr. B; Mrs. Jervis
@@ -17,6 +17,9 @@ painting_link: https://www.ngv.vic.gov.au/explore/collection/work/4040/
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.3-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28097/
+copyright: 
+source_text: "/exhibits/letter/29"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_3/full/250,/0/default.jpg"

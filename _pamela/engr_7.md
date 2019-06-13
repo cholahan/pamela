@@ -9,7 +9,7 @@ transcription: 'Pamela undressing herself, Mrs. Jewkes being first got to bed, w
   Mr. B. disguised in the Maids clothes with the Apron thrown over his face, is impatiently
   waiting for the execution of his Plot. '
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Mrs. Jewkes; Mr. B
@@ -18,6 +18,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-vii-pamela-in-the-b
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: "/exhibits/letter32/"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_7/full/250,/0/default.jpg"

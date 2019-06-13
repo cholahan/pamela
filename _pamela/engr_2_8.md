@@ -1,6 +1,6 @@
 ---
 pid: engr_2_8
-label: Plate 8 (2nd edition)
+label: Plate 8 (1762)
 category: Engraving
 edition: '1762'
 image_no: VIII
@@ -10,7 +10,7 @@ transcription: Pamela on her knees before her Father, whom she had discovered be
   &c. observing her with eagerness and admiration. Mr. B. struck with this Scene is
   waiting the Issue.
 _date: 1 July 1762
-engraver: Louis Truchy
+artist: Louis Truchy
 publisher: John Boydell
 publication_place: London
 people: Pamela; Pamela's father; Sir Simon Darnford; Mr. B
@@ -19,6 +19,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-ix-pamela-is-marrie
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.8-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28153/
+copyright: 
+source_text: "/exhibits/vol2_1"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_8/full/250,/0/default.jpg"

@@ -10,7 +10,7 @@ transcription: Pamela, being now in the custody of Mrs. Jewkes, seizes an occasi
   in order to contrive an escape, who agree to hide their letters between two tiles
   near the Sun-flower.
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Mrs. Jewkes; Mr. Williams
@@ -19,6 +19,9 @@ painting_link: https://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?oid=3348
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: "/exhibits/letter32/"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_6/full/250,/0/default.jpg"

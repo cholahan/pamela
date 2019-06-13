@@ -10,7 +10,7 @@ transcription: Pamela on her knees before her Father, whom she had discovered be
   &c. observing her with eagerness and admiration. Mr. B stuck with his Scene is waiting
   the Issue.
 _date: 25 June 1774
-engraver: unknown
+artist: unknown
 publisher: Carington Bowles
 publication_place: No. 69 in St. Paul's Churchyard, London
 people: Pamela; Pamela's father; Sir Simon Darnford; Mr. B
@@ -19,6 +19,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-ix-pamela-is-marrie
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: "/exhibits/vol2_1"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_8/full/250,/0/default.jpg"

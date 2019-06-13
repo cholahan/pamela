@@ -22,4 +22,11 @@ meta:
   - label: 'Source painting by Joseph Highmore'
     value: page.painting_link
     type:  link
+  - label: 'Source text'
+    value: page.source_text
+    type:  link
 ---
+
+<h3>Other Plates</h3>
+
+{% include collection_gallery.html facet_by='image_no' only=page.image_no collection='pamela' %}

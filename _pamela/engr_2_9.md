@@ -1,6 +1,6 @@
 ---
 pid: engr_2_9
-label: Plate 9 (2nd edition)
+label: Plate 9 (1762)
 category: Engraving
 edition: '1762'
 image_no: IX
@@ -9,7 +9,7 @@ transcription: The mariage Ceremony performed in Mr. B.’s own Chappel by Mr. W
   Mr. Peters giving her away, Mrs. Jewkes waits behind Pamela and the Maid keeps the
   door.
 _date: 1 July 1762
-engraver: Antoine Benoist
+artist: Antoine Benoist
 publisher: John Boydell
 publication_place: London
 people: Pamela; Mr. B; Mr. Williams, Mr. Peters; Mrs. Jewkes; Maid
@@ -18,6 +18,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-ix-pamela-is-marrie
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.9-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28164/
+copyright: 
+source_text: "/exhibits/vol2_2"
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_9/full/250,/0/default.jpg"

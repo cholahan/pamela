@@ -1,6 +1,6 @@
 ---
 pid: engr_2_11
-label: Plate 11 (2nd edition)
+label: Plate 11 (1762)
 category: Engraving
 edition: '1762'
 image_no: XI
@@ -11,7 +11,7 @@ transcription: Pamela asking the blessing of Sr. Jacob Swinford, Mr B.’s Unkle
   conceived the highest esteem for her new Sister. The Countess, Lord Davers and his
   nephew being present.
 _date: 1 July 1762
-engraver: Louis Truchy
+artist: Louis Truchy
 publisher: John Boydell
 publication_place: London
 people: Pamela; Sir Jacob Swinford; Lady Davers; Mr. B; Countess Lady Davers; Lady
@@ -21,6 +21,9 @@ painting_link: https://www.tate.org.uk/art/artworks/highmore-xi-pamela-asks-sir-
 source: National Gallery of Victoria, Melbourne
 lib_id: 1119.11-3
 link: https://www.ngv.vic.gov.au/explore/collection/work/28186/
+copyright: 
+source_text: exhibits/vol2_4
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/engr_2_11/full/250,/0/default.jpg"

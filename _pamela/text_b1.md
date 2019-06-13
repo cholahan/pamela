@@ -7,7 +7,7 @@ image_no:
 order: '13'
 transcription: 
 _date: 
-engraver: 
+artist: 
 publisher: 
 publication_place: 
 people: 
@@ -16,6 +16,9 @@ painting_link:
 source: Rare Book & Manuscript Library, University of Pennsylvania, Philadelphia
 lib_id: Folio PR3664.P4 P3 1741
 link: 
+copyright: 
+source_text: 
+size: 
 layout: pamela
 collection: pamela
 thumbnail: "/img/derivatives/iiif/images/text_b1/full/250,/0/default.jpg"
