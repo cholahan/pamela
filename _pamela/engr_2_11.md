@@ -3,7 +3,7 @@ pid: engr_2_11
 label: Plate 11 (1762)
 category: Engraving
 edition: '1762'
-image_no: XI
+image_no: '11'
 order: '25'
 transcription: Pamela asking the blessing of Sr. Jacob Swinford, Mr B.’s Unkle, a
   rough old Fox-hunter, who after the most obstinate resolution to the contrary, relents,

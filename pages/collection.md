@@ -9,4 +9,4 @@ This collection is comprised of two sets of engravings based on Samuel Richardso
 This digital repository also includes eleven engravings \(of twelve), currently held at the University of Pennsylvania, printed in 1774 from  from unique plates based on Benoist and Truchy's engravings.       
 
 
-{% include collection_gallery.html collection='pamela' facet_by='edition' %}
+{% include collection_gallery.html collection='pamela' facet_by='image_no' %}

@@ -3,7 +3,7 @@ pid: img_highmore_05
 label: Pamela shows Mr Williams a hiding place for their letters
 category: Oil on canvas
 edition: Highmore Painting
-image_no: VI
+image_no: '06'
 order: '46'
 transcription: 
 _date: 1743-48

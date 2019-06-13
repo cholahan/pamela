@@ -3,7 +3,7 @@ pid: engr_bm_5
 label: Plate 5 (1745)
 category: Engraving
 edition: '1745'
-image_no: V
+image_no: '05'
 order: '31'
 transcription: Pamela setting out in the travelling Chariot (for her Father’s, as
   she is made to believe) takes her farewel of Mrs. Jervis, and the other servants;

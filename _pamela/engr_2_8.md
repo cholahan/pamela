@@ -3,7 +3,7 @@ pid: engr_2_8
 label: Plate 8 (1762)
 category: Engraving
 edition: '1762'
-image_no: VIII
+image_no: '08'
 order: '22'
 transcription: Pamela on her knees before her Father, whom she had discovered behind
   the door, having overturn’d the card-table in her way. Sr. Simon Darnford, his Lady

@@ -3,7 +3,7 @@ pid: engr_7
 label: Plate 7
 category: Engraving
 edition: '1774'
-image_no: VII
+image_no: '07'
 order: '07'
 transcription: 'Pamela undressing herself, Mrs. Jewkes being first got to bed, while
   Mr. B. disguised in the Maids clothes with the Apron thrown over his face, is impatiently

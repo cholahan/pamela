@@ -3,7 +3,7 @@ pid: engr_bm_12
 label: Plate 12 (1745)
 category: Engraving
 edition: '1745'
-image_no: XII
+image_no: '12'
 order: '38'
 transcription: Pamela with her Children and Miss Goodwin to whom she is telling her
   nursery tales. This last Piece leaves her in full possession of the peaceable fruits

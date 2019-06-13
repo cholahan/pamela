@@ -3,7 +3,7 @@ pid: engr_2_2
 label: Plate 2 (1762)
 category: Engraving
 edition: '1762'
-image_no: II
+image_no: '02'
 order: '16'
 transcription: Mr. B. expostulating with Pamela in the Summer house after some liberties
   taken. Mrs. Jervis (who is seen through the Window) having just left her.

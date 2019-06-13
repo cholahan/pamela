@@ -3,7 +3,7 @@ pid: img_highmore_11
 label: Pamela Asks Sir Jacob Swinford’s Blessing
 category: Oil on canvas
 edition: Highmore Painting
-image_no: XI
+image_no: '11'
 order: '52'
 transcription: 
 _date: 1743-54

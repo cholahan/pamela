@@ -3,7 +3,7 @@ pid: engr_9
 label: Plate 9
 category: Engraving
 edition: '1774'
-image_no: IX
+image_no: '09'
 order: '09'
 transcription: The Marriage Ceremony performed in Mr. B's own Chapel by Mr. William's,
   Mr. Peters giving her away, Mrs. Jewkes waits behind Pamela, & the Maid keeps the

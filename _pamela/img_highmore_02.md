@@ -3,7 +3,7 @@ pid: img_highmore_02
 label: Pamela and Mr B. in the summer house
 category: Oil on canvas
 edition: Highmore Painting
-image_no: II
+image_no: '02'
 order: '40'
 transcription: 
 _date: 1743-45

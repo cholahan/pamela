@@ -3,7 +3,7 @@ pid: engr_3
 label: Plate 3
 category: Engraving
 edition: '1774'
-image_no: III
+image_no: '03'
 order: '03'
 transcription: Pamela swooning, after having discovered Mr. B in the Closet. He frighted,
   endeavouring to recover her. Mrs. Jervis wringing her Hands and screaming.

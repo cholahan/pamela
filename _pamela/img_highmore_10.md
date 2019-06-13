@@ -3,7 +3,7 @@ pid: img_highmore_10
 label: Pamela and Lady Davers
 category: Oil on canvas
 edition: Highmore Painting
-image_no: X
+image_no: '10'
 order: '51'
 transcription: 
 _date: 1743-53

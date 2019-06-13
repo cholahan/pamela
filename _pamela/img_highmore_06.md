@@ -3,7 +3,7 @@ pid: img_highmore_06
 label: Pamela in the Bedroom with Mrs Jewkes and Mr B.
 category: Oil on canvas
 edition: Highmore Painting
-image_no: VII
+image_no: '07'
 order: '48'
 transcription: 
 _date: 1743-49

@@ -3,7 +3,7 @@ pid: img_highmore_03
 label: Pamela Preparing To Go Home
 category: Oil on canvas
 edition: Highmore Painting
-image_no: IV
+image_no: '04'
 order: '42'
 transcription: 
 _date: 1743-46

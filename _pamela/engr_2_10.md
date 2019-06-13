@@ -3,7 +3,7 @@ pid: engr_2_10
 label: Plate 10 (1762)
 category: Engraving
 edition: '1762'
-image_no: X
+image_no: '10'
 order: '24'
 transcription: Pamela dressed in order to Mr. B. at Sr. Simon Darford’s, is prevented
   by the sudden arrival of Lady Davers, who forcibly detains her, & loads her with

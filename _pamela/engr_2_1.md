@@ -3,7 +3,7 @@ pid: engr_2_1
 label: Plate 1 (1762)
 category: Engraving
 edition: '1762'
-image_no: I
+image_no: '01'
 order: '15'
 transcription: Pamela is represented in this first Piece, writing in her late Lady’s
   dressing room, her History being known only by her letters. She is here surprised

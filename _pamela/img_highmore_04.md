@@ -3,7 +3,7 @@ pid: img_highmore_04
 label: Pamela Leaves Mr B's House in Bedfordshire
 category: Oil on canvas
 edition: Highmore Painting
-image_no: V
+image_no: '05'
 order: '44'
 transcription: 
 _date: 1743-47

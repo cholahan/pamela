@@ -3,7 +3,7 @@ pid: engr_4
 label: Plate 4
 category: Engraving
 edition: '1774'
-image_no: IV
+image_no: '04'
 order: '04'
 transcription: 'Pamela having divided her Clothes into three Bundles, in order to
   leave the House, rejects that containing her Masters Presents, calling it the wicked

@@ -3,7 +3,7 @@ pid: img_highmore_12
 label: Pamela Tells a Nursery Tale / Pamela Teaching Her Children
 category: Oil on canvas
 edition: Highmore Painting
-image_no: XII
+image_no: '12'
 order: '53'
 transcription: 
 _date: 1743-55

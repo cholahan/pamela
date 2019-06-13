@@ -3,7 +3,7 @@ pid: img_highmore_08
 label: Pamela Greets Her Father
 category: Oil on canvas
 edition: Highmore Painting
-image_no: VIII
+image_no: '08'
 order: '49'
 transcription: 
 _date: 1743-51

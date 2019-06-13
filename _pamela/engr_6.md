@@ -3,7 +3,7 @@ pid: engr_6
 label: Plate 6
 category: Engraving
 edition: '1774'
-image_no: VI
+image_no: '06'
 order: '06'
 transcription: Pamela, being now in the custody of Mrs. Jewkes, seizes an occasion
   as they are walking in the Garden to propose a correspondence with Mr. Williams,

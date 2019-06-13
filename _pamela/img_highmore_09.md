@@ -3,7 +3,7 @@ pid: img_highmore_09
 label: Pamela is Married
 category: Oil on canvas
 edition: Highmore Painting
-image_no: IX
+image_no: '09'
 order: '50'
 transcription: 
 _date: 1743-52

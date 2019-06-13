@@ -3,7 +3,7 @@ pid: engr_bm_9
 label: Plate 9 (1745)
 category: Engraving
 edition: '1745'
-image_no: IX
+image_no: '09'
 order: '35'
 transcription: The mariage Ceremony performed in Mr. B.’s own Chappel by Mr. Williams,
   Mr. Peters giving her away, Mrs. Jewkes waits behind Pamela and the Maid keeps the

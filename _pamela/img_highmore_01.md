@@ -3,7 +3,7 @@ pid: img_highmore_01
 label: Mr B. Finds Pamela Writing
 category: Oil on canvas
 edition: Highmore Painting
-image_no: I
+image_no: '01'
 order: '39'
 transcription: 
 _date: 1743-44

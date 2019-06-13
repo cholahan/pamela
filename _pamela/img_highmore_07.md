@@ -3,7 +3,7 @@ pid: img_highmore_07
 label: Pamela Fainting
 category: Oil on canvas
 edition: Highmore Painting
-image_no: III
+image_no: '03'
 order: '41'
 transcription: 
 _date: 1743-50
